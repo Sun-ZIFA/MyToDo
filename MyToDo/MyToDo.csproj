@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\user.jpg" />
     <Resource Include="Images\wind.png" />
   </ItemGroup>
 
@@ -34,7 +35,6 @@
 
   <ItemGroup>
     <Resource Include="Images\login.png" />
-    <Resource Include="Images\user.jpg" />
   </ItemGroup>
 
 </Project>

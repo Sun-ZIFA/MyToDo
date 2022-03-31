@@ -85,7 +85,7 @@
                         </StackPanel>
                         <materialDesign:PopupBox DockPanel.Dock="Right">
                             <materialDesign:PopupBox.ToggleContent>
-                                <Image Width="25" Height="25" Source="/Images/user.jpg">
+                                <Image Width="25" Height="25" Source="/Images/user1.jpg">
                                     <Image.Clip>
                                         <EllipseGeometry Center="12.5,12.5" RadiusX="12.5" RadiusY="12.5"/>
                                     </Image.Clip>
