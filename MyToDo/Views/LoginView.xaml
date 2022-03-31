@@ -39,7 +39,7 @@
                             <pass:PasswordBehavior/>
                         </i:Interaction.Behaviors>
                     </PasswordBox>
-                    <Button Content="登录系统" Command="{Binding ExecuteCommand}" CommandParameter="Login" DockPanel.Dock="Top"/>
+                    <Button Content="登录系统" IsDefault="True" Command="{Binding ExecuteCommand}" CommandParameter="Login" DockPanel.Dock="Top"/>
                     <DockPanel LastChildFill="False" Margin="0,5">
                         <TextBlock Text="注册账号">
                             <i:Interaction.Triggers>
